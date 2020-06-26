@@ -1,0 +1,17 @@
+.clicker-number input {
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 70px;
+    background-color: #ccc;
+    border: none;
+}
+
+.clicker-number {
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+.clicker-header > img {
+    margin-right: 20px;
+    width: 30px;
+}
+
+.clicker-header {
+    background-color: #202020;
+    width: 230px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
